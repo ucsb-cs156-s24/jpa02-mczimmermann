@@ -2,7 +2,7 @@
 
 Repo: [https://ucsb-cs156-s24/jpa02-mczimmermann](https://ucsb-cs156-s24/jpa02-mczimmermann)
 
-Deployed at: [https://jpa02-replace-me.dokku-xx.cs.ucsb.edu](http://jpa02-mczimmermann.dokku-07.cs.ucsb.edu)
+Deployed at: [https://jpa02-mczimmermann.dokku-07.cs.ucsb.edu](http://jpa02-mczimmermann.dokku-07.cs.ucsb.edu)
 
 
 # About this repo
